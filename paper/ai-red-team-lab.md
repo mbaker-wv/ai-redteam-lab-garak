@@ -5,7 +5,7 @@
 Author: Michael Baker
 As of: 2026-10-22
 
-*I used Claude (Anthropic) to help organize and edit this write-up. The lab, testing, results, and conclusions are my own.*
+*I used Claude (Anthropic) to help write the lab scripts and to organize and edit this write-up. I ran every scan, worked through the problems along the way, reviewed the results by hand, and the findings and conclusions are my own.*
 
 ---
 
