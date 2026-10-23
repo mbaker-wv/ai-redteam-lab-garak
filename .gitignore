@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Lab output (raw reports can contain harmful model output, keep them local)
+lab/runs/
+lab/logs/
+*.report.jsonl
+*.hitlog.jsonl
+*.report.html
+hits_*.txt
+blanks_*.txt
+
+# macOS
+.DS_Store

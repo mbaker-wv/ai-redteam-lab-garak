@@ -1,0 +1,6 @@
+# garak run config for faster lab scans.
+run:
+  generations: 1
+  soft_probe_prompt_cap: 64   # garak default is 256 prompts per probe; lower = faster, wider error bars
+system:
+  parallel_attempts: 1        # Ollama answers one at a time; queuing more just causes timeouts
