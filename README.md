@@ -55,10 +55,10 @@ results/         results.csv from the full matrix
 
 ## Running it
 
-You need Ollama, Python 3.12, and enough memory for the models (I used 48 GB). Commands below run from the `lab/` folder.
+You need Ollama, Python 3.12 (newer versions don't have a torch build garak can use yet), and enough memory for the models (I used 48 GB). Commands below run from the `lab/` folder.
 
 ```
-python3 -m venv .venv
+python3.12 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ollama pull qwen3:8b
