@@ -5,6 +5,8 @@
 Author: Michael Baker
 As of: 2026-10-22
 
+*I used Claude (Anthropic) to help organize and edit this write-up. The lab, testing, results, and conclusions are my own.*
+
 ---
 
 ## Abstract

@@ -86,6 +86,7 @@ Before trusting any result, check the Empty column in summarize.py, read the act
 
 ## Notes
 
+- I used Claude (Anthropic) to help organize and edit this write-up. The lab, testing, results, and conclusions are my own.
 - Everything here is lab data. The contracts and companies are fictional, and the agent only listens on 127.0.0.1.
 - Raw garak reports aren't included because some raw-mode replies contain harmful model output.
 - Only test systems you own or have written permission to test.
